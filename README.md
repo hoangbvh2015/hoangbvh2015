@@ -1,6 +1,6 @@
 
 
-# Hoang Nguyen - Passionate Web Developer, Frontend Trainer
+# Hoang Nguyen - Passionate Web Developer, Frontend 
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
