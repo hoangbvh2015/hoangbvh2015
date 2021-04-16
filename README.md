@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**hoangbvh2015/hoangbvh2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hoang Nguyen - Passionate Web Developer, Frontend Trainer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Open and friendly.
+- Love to learn new things, especially things related to Frontend stacks.
+- Enjoy working with Angular, Vue ❤
+
+## Working <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
+
+## Projects for sharing
+
+- use-scroll-progress hook: 
+- ReactJS App:
